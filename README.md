@@ -1,7 +1,7 @@
 # GeneticSoftwares
 A brief summaries of genetic softwares
 
-# HWE Caculation
+### HWE Caculation
 http://www.oege.org/software/hwe-mr-calc.shtml
 
 Step by Step illustrate how to compute HWE X2 values.
